@@ -8,10 +8,10 @@ Powered by an API that analyzes tens of thousands of papers each week, PapersPle
 
 ## Features:
 
-    Discover top research papers with just a few commands.
-    Stay updated with the latest research in your field.
-    Choose from different sorting methods to find papers that matter to you.
-    Explore the scientific frontier without wasting time on irrelevant papers.
+- Discover top research papers with just a few commands.
+- Stay updated with the latest research in your field.
+- Choose from different sorting methods to find papers that matter to you.
+- Explore the scientific frontier without wasting time on irrelevant papers.
 
 ## Key Notes:
 
