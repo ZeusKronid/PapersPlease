@@ -11,7 +11,7 @@ func main() {
 	// Create the root command
 	var rootCmd = &cobra.Command{
 		Use:   "paperspls",
-		Short: "A simple CLI app",
+		Short: "CLI interface for ",
 		Long:  `A simple CLI app built with Go and Cobra to demonstrate the basics.`,
 		Run: func(cmd *cobra.Command, args []string) {
 			// This will be called if no subcommands are provided
