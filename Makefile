@@ -1,5 +1,5 @@
 build:
-	@go build -o bin/paperspls ./cmd/pp/
+	@go build -o bin/paperspls ./cmd/
 
 run: build
 	@./bin/paperspls

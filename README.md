@@ -15,9 +15,9 @@ Powered by an API that analyzes tens of thousands of papers each week, PapersPle
 
 ## Key Notes:
 
-    Metadata is kept for one week only. Historical data is not accessible.
-    Designed to help you stay up-to-date with the latest research.
-    Focused on providing the most impactful papers, tailored to your needs.
+- Metadata is kept for one week only. Historical data is not accessible.
+- Designed to help you stay up-to-date with the latest research.
+- Focused on providing the most impactful papers, tailored to your needs.
 
 ## Use Cases:
 
@@ -31,3 +31,15 @@ Powered by an API that analyzes tens of thousands of papers each week, PapersPle
     -s / --sortby: Specifies the sorting type.
     -m / --method: Selects the method for finding best papers (default: oi for overall impact).
 
+## Available areas of research: 
+    Mh: Math
+    Ph: Physics
+    AI: Artificial Intelegence
+    ML: Machine Learning
+    CS: Computer Science
+    By: Biology
+    Me: Medicine
+    Ec: Economics and econometrics
+    St: Statistics
+    Eg: Engineering
+    
